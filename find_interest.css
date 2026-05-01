@@ -10,6 +10,7 @@ body{
   padding: 20px;
   transform:translateY(-15px);
   width: 90%;
+  max-width:350px;
   border-radius: 20px;
   display: flex;
   flex-direction:column;
@@ -40,7 +41,8 @@ label{
 input{
   font-weight:bold;
   padding: 8px;
-  width: 200px;
+  width: 100%;
+  box-sizing:border-box;
   border: 2px solid #C9184A;
   border-radius: 11px;
 }
