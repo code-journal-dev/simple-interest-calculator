@@ -6,8 +6,7 @@ This project helps understand DOM manipulation, event handling, and basic form v
 ---
 
 ## 🚀 Live Demo
-👉 https://your-netlify-link.netlify.app/  
-(Replace this with your actual Netlify link)
+👉 https://interestcalculatorjs.netlify.app/
 
 ---
 
